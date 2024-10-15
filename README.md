@@ -20,7 +20,7 @@ Welcome to my cybersecurity portfolio! I am an aspiring Penetration Tester with 
 ### 4. [Vulnerable Machines](https://github.com/yourusername/Cybersec_Research)
 - Projects and Write-ups.
 
-## 🔨⚙️ **Others**
+## ⚙️ **Others**
 
 ### 1. [Research and Blogs](https://github.com/yourusername/Cybersec_Research)
 - Will be coming soon, in the future.

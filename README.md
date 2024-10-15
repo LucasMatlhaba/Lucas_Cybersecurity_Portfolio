@@ -20,7 +20,7 @@ Welcome to my cybersecurity portfolio! I am an aspiring Penetration Tester with 
 ### 4. [CTF Write-ups](https://github.com/yourusername/CTF_Writeups)
 - Write-ups of challenges I’ve solved in CTF competitions.
 
-### 5. [Bash Scripting] (https://github.com/yourusername/CTF_Writeups)
+### 5. [Bash Scripting](https://github.com/yourusername/CTF_Writeups)
 - Write-ups of challenges I’ve solved in CTF competitions.
 
 ### 6. [Research and Blogs](https://github.com/yourusername/Cybersec_Research)

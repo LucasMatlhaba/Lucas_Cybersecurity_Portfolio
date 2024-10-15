@@ -12,7 +12,7 @@ Welcome to my cybersecurity portfolio! I am an aspiring Penetration Tester with 
 - A collection of detailed walkthroughs for machines I've completed on Hack The Box.
 
 ### 2. [TryHackMe Write-ups](https://github.com/yourusername/HTB_Writeups)
-- A collection of detailed walkthroughs for machines I've completed on Hack The Box.
+- A collection of detailed walkthroughs for machines I've completed on TryHackme.
 
 ### 3. [Custom Pentesting Scripts](https://github.com/yourusername/Pentesting_Scripts)
 - Tools and scripts I’ve developed for automating various pentesting tasks.
@@ -20,7 +20,7 @@ Welcome to my cybersecurity portfolio! I am an aspiring Penetration Tester with 
 ### 4. [CTF Write-ups](https://github.com/yourusername/CTF_Writeups)
 - Write-ups of challenges I’ve solved in CTF competitions.
 
-### 5. Bash Scripting (https://github.com/yourusername/CTF_Writeups)
+### 5. [Bash Scripting] (https://github.com/yourusername/CTF_Writeups)
 - Write-ups of challenges I’ve solved in CTF competitions.
 
 ### 6. [Research and Blogs](https://github.com/yourusername/Cybersec_Research)

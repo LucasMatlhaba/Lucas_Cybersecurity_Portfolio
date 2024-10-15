@@ -1,4 +1,4 @@
-# Lucas' Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! I am an aspiring Penetration Tester with a passion for ethical hacking and vulnerability assessment. This portfolio highlights my journey, projects, and certifications as I work toward becoming a professional pentester.
 
